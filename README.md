@@ -5,6 +5,8 @@ The goal of this project is to detect and track players, referees, and footballs
 The following modules are used in this project:
 - YOLO: AI object detection model
 - Kmeans: Pixel segmentation and clustering to detect t-shirt color
+- Use interpolation methods to smooth ball detection
+- Use the number of frames and the team in possession to determine the ball possession ratio.
 ## Model:
 https://drive.google.com/file/d/1Ul0lrutjRItaTH3qiN78iXrP45hJ3les/view?usp=sharing
 ## video input
